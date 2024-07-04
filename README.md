@@ -10,12 +10,12 @@ ApplicationFlowTest.cs file contains the code to run the project
 
 ## Following drivers need to be installed**:
 
-**dotnet add package Selenium.WebDriver --version 4.0.0**
-**dotnet add package Selenium.WebDriver.ChromeDriver --version 96.0.4664.4500**
-**dotnet add package NUnit --version 3.13.2**
-**dotnet add package NUnit3TestAdapter --version 4.0.0**
-**dotnet add package Microsoft.NET.Test.Sdk --version 16.11.0**
-**dotnet add package Selenium.Support --version 4.0.0**
+- dotnet add package Selenium.WebDriver --version 4.0.0**
+- dotnet add package Selenium.WebDriver.ChromeDriver --version 96.0.4664.4500**
+- dotnet add package NUnit --version 3.13.2**
+- dotnet add package NUnit3TestAdapter --version 4.0.0
+- dotnet add package Microsoft.NET.Test.Sdk --version 16.11.0
+- dotnet add package Selenium.Support --version 4.0.0
 
 ## Run the test
 **[Running Tests](#running-tests) : To run the build open the terminal and use dotnet test command**
