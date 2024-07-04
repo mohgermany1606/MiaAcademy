@@ -18,8 +18,8 @@ ApplicationFlowTest.cs file contains the code to run the project
 - dotnet add package Selenium.Support --version 4.0.0
 
 ## Run the test
-**[Running Mechanism] : To run the build open the terminal and use dotnet test command**
-## [Additional Notes)
+**Running Mechanism : To run the build open the terminal and use dotnet test command**
+## Additional Notes
 **Wait Mechanism: The framework uses explicit waits to handle dynamic web elements.**
 **Assertions: Assertions are used to validate the success of navigation and form submissions**
 **Logging: Console logging is used for debugging and understanding the flow of test execution**
