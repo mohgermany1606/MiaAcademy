@@ -1,4 +1,4 @@
-# This is automated test framework for MiaAcademy to go to Parent Information Page , fill the details and navigate to Student Information Page
+## This is automated test framework for MiaAcademy to go to Parent Information Page , fill the details and navigate to Student Information Page
 ## Prerequisites
 
 - [.NET SDK](https://dotnet.microsoft.com/download)
@@ -8,7 +8,7 @@
 - This project is based on POM model and separate class is created for each page . It has majorly two folders(Pages & Tests) in which page class and respective test class are present.
 ApplicationFlowTest.cs file contains the code to run the project
 
-## Following drivers need to be installed**:
+## Following drivers need to be installed:
 
 - dotnet add package Selenium.WebDriver --version 4.0.0**
 - dotnet add package Selenium.WebDriver.ChromeDriver --version 96.0.4664.4500**
