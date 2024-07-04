@@ -16,6 +16,8 @@ ApplicationFlowTest.cs file contains the code to run the project
 - dotnet add package NUnit3TestAdapter --version 4.0.0
 - dotnet add package Microsoft.NET.Test.Sdk --version 16.11.0
 - dotnet add package Selenium.Support --version 4.0.0
+- dotnet add package Selenium.Extras
+- dotnet add package DotNetSeleniumExtras.WaitHelpers --version 3.11.0
 
 ## Run the test
 **Running Mechanism : To run the build open the terminal and use dotnet test command**
